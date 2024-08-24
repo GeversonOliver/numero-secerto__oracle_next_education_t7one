@@ -1,5 +1,4 @@
-![author](https://img.shields.io/badge/author-OLIVER-red.svg) [![](https://img.shields.io/badge/html5+-blue.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/geversonoliver)
-
+![author](https://img.shields.io/badge/author-Oliver-black.svg) ![](https://img.shields.io/badge/HTML-orange.svg)![](https://img.shields.io/badge/CSS-blue.svg)![](https://img.shields.io/badge/JS-yellow.svg) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/geversonoliver)
 
 # NÚMERO SECRETO
 ##### Olá, bem-vindo ao meu projeto.
