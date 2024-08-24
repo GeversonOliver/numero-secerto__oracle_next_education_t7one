@@ -2,7 +2,7 @@
 
 
 # NÚMERO SECRETO
-##### Olá, Bem vindo ao meu projeto.
+##### Olá, Bem-vindo ao meu projeto.
 ![image](https://github.com/GeversonOliver/numero-secerto__oracle_next_education_t7one/blob/main/numero-secreto.png)
 
 * O repositório foi desenvolvido durante um curso de Git e GitHub oferecido pela Alura, em colaboração com o programa Oracle Next Education, como parte da formação da Turma 7 ONE.
